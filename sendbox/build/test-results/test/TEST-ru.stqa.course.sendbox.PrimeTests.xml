@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.stqa.course.sendbox.PrimeTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-01-18T19:26:01" hostname="HP_V" time="7.722">
+  <properties/>
+  <testcase name="testNonPrime" classname="ru.stqa.course.sendbox.PrimeTests" time="0.006"/>
+  <testcase name="testPrime" classname="ru.stqa.course.sendbox.PrimeTests" time="7.712"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

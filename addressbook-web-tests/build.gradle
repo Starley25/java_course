@@ -1,0 +1,14 @@
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.testng:testng:7.7.1'
+    implementation 'org.junit.jupiter:junit-jupiter:5.9.2'
+    implementation 'org.slf4j:slf4j-simple:2.0.5'
+    implementation 'org.seleniumhq.selenium:selenium-java:4.7.2'
+    implementation 'junit:junit:4.13.1'
+}
+
